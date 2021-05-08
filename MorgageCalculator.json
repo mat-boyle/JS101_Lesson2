@@ -1,0 +1,12 @@
+{
+  "intro": "Welcome to the payment calculator",
+  "loanAmountQuestion": "What is the loan ammount?",
+  "invalidLoanAmountQuestion": "Please enter a positive loan ammount",
+  "interestRateQuestion": "Enter the annual interest rate(APR)?",
+  "invalidInterestRateQuestion": "Enter a positive interest rate",
+  "loanDurationQuestion": "How long (in years) will the loan be?",
+  "invalidLoanDurationQuestion": "Please enter a postive loan duration in years",
+  "repeatQuestion": "Would you like to do another calculation?",
+  "invalidRepeat": "Please enter yes or no",
+  "monthlyPayment": "The montly payment is $"
+}
