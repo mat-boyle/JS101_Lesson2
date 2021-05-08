@@ -12,7 +12,7 @@ function convertCurrancyToNum(cur) {
     if (cur[count] === ' ') {
       continue;
     }
-    if (cur[count] === "." || cur[count] === "-" || !(Number.isNaN(Number(cur[count])))) { //sorts through input and only adds numbers and .
+    if (cur[count] === "." || cur[count] === "-" || !(Number.isNaN(Number(cur[count])))) { //sorts through input and only adds numbers - and .
       tempArray.push(cur[count]);
     }
   }
